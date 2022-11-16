@@ -1,0 +1,13 @@
+{
+  "name": "addTodoFnSample",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/uttahb/addTodoFnSample",
+    "ssh": "git@github.com:uttahb/addTodoFnSample.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
